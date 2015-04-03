@@ -1,4 +1,4 @@
-package ru.kpfu.itis.group408.marushkai.queue;
+package ru.kpfu.itis.group408.miftahutdinova.queue;
 
 import java.util.ArrayList;
 

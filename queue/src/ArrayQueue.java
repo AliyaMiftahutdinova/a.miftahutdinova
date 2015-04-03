@@ -1,4 +1,4 @@
-package ru.kpfu.itis.group408.marushkai.queue;
+package ru.kpfu.itis.group408.miftahutdinova.queue;
 
 
 public class ArrayQueue<T> implements Queue<T> {
